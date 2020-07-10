@@ -12,3 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
+/moviereviewsentimentanalysis_helper_codes/datset
+/moviereviewsentimentanalysis_helper_codes/*.txt
